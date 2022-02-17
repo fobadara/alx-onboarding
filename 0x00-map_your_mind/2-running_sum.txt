@@ -1,0 +1,7 @@
+initialize variable 'k' with 0;
+FOR LOOP  
+Set counter to 0
+Break when counter == length of array of numbers
+  Add number to 'k'
+  IF number < 0
+    return k
