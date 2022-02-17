@@ -1,0 +1,6 @@
+Initialize variable k with the first number in the array of numbers
+FOR LOOP
+Set counter to 0
+Break when counter == length of array of numbers which is 3
+  IF the last element in array < current number
+    PUSH current number into the index brfore current number 
